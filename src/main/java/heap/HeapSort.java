@@ -15,8 +15,8 @@ public class HeapSort {
     }
 
     public static void sort(int[] arr) {
-        // 先构建大顶堆
-        for (int i = arr.length / 2; i >= 0; i--) {
+        // 先构建大顶堆，从下到上，从右到左
+        for (int i = arr.length / 2 - 1; i >= 0; i--) {
             adjustHeap(arr, i, arr.length);
         }
 

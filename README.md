@@ -7,3 +7,4 @@ Ten Classic Sorting Algorithms
 * [插入排序](src/main/java/insertion/README.md)
 * [希尔排序](src/main/java/shell/README.md)
 * [堆排序](src/main/java/heap/README.md)
+* [归并排序](src/main/java/merge/README.md)

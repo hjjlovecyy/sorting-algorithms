@@ -10,3 +10,4 @@ Ten Classic Sorting Algorithms
 * [归并排序](src/main/java/merge/README.md)
 * [快速排序](src/main/java/quick/README.md)
 * [计数排序](src/main/java/count/README.md)
+* [桶排序](src/main/java/bucket/README.md)
